@@ -1,0 +1,19 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Weekly project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collin-beisel-tm/jest-another-rpg.git"
+  },
+  "author": "Collin Beisel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/collin-beisel-tm/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/collin-beisel-tm/jest-another-rpg#readme"
+}
